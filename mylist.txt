@@ -1,0 +1,26 @@
+[Adblock Plus 2.0]
+! Name: My Custom List
+! Expires: 3 days (update frequency)
+! Description: Ethan's personal adblock list
+! Version: 0.1
+
+! newtoki**.com
+!||newtoki*.com/data/banner/$image
+!4x3배너
+newtoki66.com###main4x3_banner
+!리더 광고
+newtoki66.com##.col-xs-12.col-sm-6.col-md-6.col-10
+!자유게시판
+newtoki66.com##.hidden-xs.col-sm-4.col-md-5.col-15
+!채팅창+광고
+newtoki66.com###main-banner-view > .col-sm-3.col-md-3.col-15
+
+! manamoa**.net
+manamoa37.net##div.main-banner.ad-banner-widget
+!manamoa37.net##div.main-banner.ad-banner-widget:nth-of-type(1)
+!side ads
+manamoa37.net##.ad-banner-widget
+!manamoa37.net##div.widget-box:nth-of-type(13)
+!인증업체
+manamoa37.net##div.div-title-underbar:nth-of-type(5)
+manamoa37.net##div.widget-box:nth-of-type(6
