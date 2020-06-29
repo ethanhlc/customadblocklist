@@ -1,28 +1,38 @@
 [Adblock Plus 2.0]
 ! Title: Ethan's Custom List
 ! Description: Ethan's personal adblock list
-! Version: 0.1.1
-! TimeUpdated: 2020-06-29 17:00
+! Version: 0.2
+! TimeUpdated: 2020-06-29T18:00+09:00
 ! Expires: 2 days (update frequency)
 !
 !
-!!! newtoki**.com
+!!! newtoki.com
+! Banner Images Only
 !||newtoki*.com/data/banner/$image
-!4x3배너
+! Full Banner
+!newtoki.com###main-banner-view
+! Main Ad Banner
 newtoki66.com###main4x3_banner
-!리더 광고
-newtoki66.com##.col-xs-12.col-sm-6.col-md-6.col-10
-!자유게시판
-newtoki66.com##.hidden-xs.col-sm-4.col-md-5.col-15
-!채팅창+광고
+newtoki67.com###main4x3_banner
+! Ad Button
+newtoki66.com##.btn-lg.btn-info.btn
+newtoki67.com##.btn-lg.btn-info.btn
+! Chat & Ad
 newtoki66.com###main-banner-view > .col-sm-3.col-md-3.col-15
+newtoki67.com###main-banner-view > .col-sm-3.col-md-3.col-15
+! Banner above image
+newtoki66.com##.at-content > div.row-15.row:nth-of-type(2) > .col-md-12.col-15
+newtoki67.com##.at-content > div.row-15.row:nth-of-type(2) > .col-md-12.col-15
+! Reader Ads
+newtoki66.com##.col-xs-12.col-sm-6.col-md-6.col-10
+newtoki67.com##.col-xs-12.col-sm-6.col-md-6.col-10
 !
-!!! manamoa**.net
-manamoa37.net##div.main-banner.ad-banner-widget
-!manamoa37.net##div.main-banner.ad-banner-widget:nth-of-type(1)
-!side ads
-manamoa37.net##.ad-banner-widget
-!manamoa37.net##div.widget-box:nth-of-type(13)
-!인증업체
-manamoa37.net##div.div-title-underbar:nth-of-type(5)
-manamoa37.net##div.widget-box:nth-of-type(6
+!!! manamoa.net
+! Main Ad Banner
+manamoa49.net##.ad-banner-widget
+manamoa50.net##.ad-banner-widget
+! 인증업체
+manamoa49.net##div.div-title-underbar:nth-of-type(5)
+manamoa49.net##div.widget-box:nth-of-type(6)
+manamoa50.net##div.div-title-underbar:nth-of-type(5)
+manamoa50.net##div.widget-box:nth-of-type(6)
