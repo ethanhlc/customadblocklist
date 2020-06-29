@@ -1,4 +1,3 @@
-[Adblock Plus 2.0]
 ! Name: My Custom List
 ! Expires: 3 days (update frequency)
 ! Description: Ethan's personal adblock list
