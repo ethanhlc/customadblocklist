@@ -54,11 +54,14 @@ newtoki75.com##.col-xs-12.col-sm-6.col-md-6.col-10
 !
 !!! manamoa.net
 ! Main Ad Banner
+manamoa.net##.ad-banner-widget
 manamoa52.net##.ad-banner-widget
 manamoa53.net##.ad-banner-widget
 manamoa54.net##.ad-banner-widget
 manamoa55.net##.ad-banner-widget
 ! 인증업체
+manamoa.net##div.div-title-underbar:nth-of-type(5)
+manamoa.net##div.widget-box:nth-of-type(6)
 manamoa52.net##div.div-title-underbar:nth-of-type(5)
 manamoa52.net##div.widget-box:nth-of-type(6)
 manamoa53.net##div.div-title-underbar:nth-of-type(5)
