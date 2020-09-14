@@ -12,7 +12,7 @@
 ! Full Banner
 !newtoki.com###main-banner-view
 ! Main Ad Banner
-newtoki69.com###main4x3_banner
+newtoki76.com###main4x3_banner
 newtoki70.com###main4x3_banner
 newtoki71.com###main4x3_banner
 newtoki72.com###main4x3_banner
@@ -20,7 +20,7 @@ newtoki73.com###main4x3_banner
 newtoki74.com###main4x3_banner
 newtoki75.com###main4x3_banner
 ! Ad Button
-newtoki69.com##.btn-lg.btn-info.btn
+newtoki76.com##.btn-lg.btn-info.btn
 newtoki70.com##.btn-lg.btn-info.btn
 newtoki71.com##.btn-lg.btn-info.btn
 newtoki72.com##.btn-lg.btn-info.btn
@@ -28,7 +28,7 @@ newtoki73.com##.btn-lg.btn-info.btn
 newtoki74.com##.btn-lg.btn-info.btn
 newtoki75.com##.btn-lg.btn-info.btn
 ! Chat & Ad
-newtoki69.com###main-banner-view > .col-sm-3.col-md-3.col-15
+newtoki76.com###main-banner-view > .col-sm-3.col-md-3.col-15
 newtoki70.com###main-banner-view > .col-sm-3.col-md-3.col-15
 newtoki71.com###main-banner-view > .col-sm-3.col-md-3.col-15
 newtoki72.com###main-banner-view > .col-sm-3.col-md-3.col-15
@@ -36,7 +36,7 @@ newtoki73.com###main-banner-view > .col-sm-3.col-md-3.col-15
 newtoki74.com###main-banner-view > .col-sm-3.col-md-3.col-15
 newtoki75.com###main-banner-view > .col-sm-3.col-md-3.col-15
 ! Banner above image
-newtoki69.com##.at-content > div.row-15.row:nth-of-type(2) > .col-md-12.col-15
+newtoki76.com##.at-content > div.row-15.row:nth-of-type(2) > .col-md-12.col-15
 newtoki70.com##.at-content > div.row-15.row:nth-of-type(2) > .col-md-12.col-15
 newtoki71.com##.at-content > div.row-15.row:nth-of-type(2) > .col-md-12.col-15
 newtoki72.com##.at-content > div.row-15.row:nth-of-type(2) > .col-md-12.col-15
@@ -44,7 +44,7 @@ newtoki73.com##.at-content > div.row-15.row:nth-of-type(2) > .col-md-12.col-15
 newtoki74.com##.at-content > div.row-15.row:nth-of-type(2) > .col-md-12.col-15
 newtoki75.com##.at-content > div.row-15.row:nth-of-type(2) > .col-md-12.col-15
 ! Reader Ads
-newtoki69.com##.col-xs-12.col-sm-6.col-md-6.col-10
+newtoki76.com##.col-xs-12.col-sm-6.col-md-6.col-10
 newtoki70.com##.col-xs-12.col-sm-6.col-md-6.col-10
 newtoki71.com##.col-xs-12.col-sm-6.col-md-6.col-10
 newtoki72.com##.col-xs-12.col-sm-6.col-md-6.col-10
