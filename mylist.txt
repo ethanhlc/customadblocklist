@@ -2,71 +2,48 @@
 ! Title: Ethan's Custom List
 ! Description: Ethan's personal adblock list
 ! Version: 0.2
-! TimeUpdated: 2020-07-30T15:00+09:00
+! TimeUpdated: 2020-10-10T20:00+09:00
 ! Expires: 2 days (update frequency)
 !
 !
 !!! newtoki.com
-! Banner Images Only
-!||newtoki*.com/data/banner/$image
 ! Full Banner
-!newtoki.com###main-banner-view
-! Main Ad Banner
-newtoki76.com###main4x3_banner
-newtoki70.com###main4x3_banner
-newtoki71.com###main4x3_banner
-newtoki72.com###main4x3_banner
-newtoki73.com###main4x3_banner
-newtoki74.com###main4x3_banner
-newtoki75.com###main4x3_banner
+newtoki78.com###main-banner-view
 ! Ad Button
-newtoki76.com##.btn-lg.btn-info.btn
-newtoki70.com##.btn-lg.btn-info.btn
-newtoki71.com##.btn-lg.btn-info.btn
-newtoki72.com##.btn-lg.btn-info.btn
-newtoki73.com##.btn-lg.btn-info.btn
-newtoki74.com##.btn-lg.btn-info.btn
-newtoki75.com##.btn-lg.btn-info.btn
-! Chat & Ad
-newtoki76.com###main-banner-view > .col-sm-3.col-md-3.col-15
-newtoki70.com###main-banner-view > .col-sm-3.col-md-3.col-15
-newtoki71.com###main-banner-view > .col-sm-3.col-md-3.col-15
-newtoki72.com###main-banner-view > .col-sm-3.col-md-3.col-15
-newtoki73.com###main-banner-view > .col-sm-3.col-md-3.col-15
-newtoki74.com###main-banner-view > .col-sm-3.col-md-3.col-15
-newtoki75.com###main-banner-view > .col-sm-3.col-md-3.col-15
-! Banner above image
-newtoki76.com##.at-content > div.row-15.row:nth-of-type(2) > .col-md-12.col-15
-newtoki70.com##.at-content > div.row-15.row:nth-of-type(2) > .col-md-12.col-15
-newtoki71.com##.at-content > div.row-15.row:nth-of-type(2) > .col-md-12.col-15
-newtoki72.com##.at-content > div.row-15.row:nth-of-type(2) > .col-md-12.col-15
-newtoki73.com##.at-content > div.row-15.row:nth-of-type(2) > .col-md-12.col-15
-newtoki74.com##.at-content > div.row-15.row:nth-of-type(2) > .col-md-12.col-15
-newtoki75.com##.at-content > div.row-15.row:nth-of-type(2) > .col-md-12.col-15
+newtoki78.com##.btn-lg.btn-info.btn
+newtoki79.com##.btn-lg.btn-info.btn
+newtoki80.com##.btn-lg.btn-info.btn
 ! Reader Ads
-newtoki76.com##.col-xs-12.col-sm-6.col-md-6.col-10
-newtoki70.com##.col-xs-12.col-sm-6.col-md-6.col-10
-newtoki71.com##.col-xs-12.col-sm-6.col-md-6.col-10
-newtoki72.com##.col-xs-12.col-sm-6.col-md-6.col-10
-newtoki73.com##.col-xs-12.col-sm-6.col-md-6.col-10
-newtoki74.com##.col-xs-12.col-sm-6.col-md-6.col-10
-newtoki75.com##.col-xs-12.col-sm-6.col-md-6.col-10
+newtoki78.com##.col-xs-12.col-sm-6.col-md-6.col-10
+newtoki79.com##.col-xs-12.col-sm-6.col-md-6.col-10
+newtoki80.com##.col-xs-12.col-sm-6.col-md-6.col-10
 !
-!!! manamoa.net
 ! Main Ad Banner
-manamoa.net##.ad-banner-widget
-manamoa52.net##.ad-banner-widget
-manamoa53.net##.ad-banner-widget
-manamoa54.net##.ad-banner-widget
-manamoa55.net##.ad-banner-widget
+!newtoki78.com###main-banner-view > .col-sm-9.col-md-9.col-15
+!newtoki79.com###main-banner-view > .col-sm-9.col-md-9.col-15
+!newtoki80.com###main-banner-view > .col-sm-9.col-md-9.col-15
+! Chat & Ad
+!newtoki78.com###main-banner-view > .col-sm-3.col-md-3.col-15
+!newtoki79.com###main-banner-view > .col-sm-3.col-md-3.col-15
+!newtoki80.com###main-banner-view > .col-sm-3.col-md-3.col-15
+! Banner above image - obsolete
+!newtoki78.com##.at-content > div.row-15.row:nth-of-type(2) > .col-md-12.col-15
+!newtoki79.com##.at-content > div.row-15.row:nth-of-type(2) > .col-md-12.col-15
+!newtoki80.com##.at-content > div.row-15.row:nth-of-type(2) > .col-md-12.col-15
+! Banner Images Only - obsolete
+!||newtoki*.com/data/banner/$image
+!
+!
+!!! marumaru.*
+! Main Ad Banner
+marumaru.pics##.w_banner.row
+marumaru.sale##.w_banner.row
+!
+!
+!
+!!! manamoa.net | site shutdown
+! Main Ad Banner
+! manamoa.net##.ad-banner-widget
 ! 인증업체
-manamoa.net##div.div-title-underbar:nth-of-type(5)
-manamoa.net##div.widget-box:nth-of-type(6)
-manamoa52.net##div.div-title-underbar:nth-of-type(5)
-manamoa52.net##div.widget-box:nth-of-type(6)
-manamoa53.net##div.div-title-underbar:nth-of-type(5)
-manamoa53.net##div.widget-box:nth-of-type(6)
-manamoa54.net##div.div-title-underbar:nth-of-type(5)
-manamoa54.net##div.widget-box:nth-of-type(6)
-manamoa55.net##div.div-title-underbar:nth-of-type(5)
-manamoa55.net##div.widget-box:nth-of-type(6)
+! manamoa.net##div.div-title-underbar:nth-of-type(5)
+! manamoa.net##div.widget-box:nth-of-type(6)
