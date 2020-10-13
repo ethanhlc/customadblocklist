@@ -8,15 +8,23 @@
 !
 !!! newtoki.com
 ! Full Banner
-newtoki78.com###main-banner-view
+newtoki81.com###main-banner-view
+newtoki82.com###main-banner-view
+newtoki83.com###main-banner-view
+newtoki84.com###main-banner-view
+newtoki85.com###main-banner-view
 ! Ad Button
-newtoki78.com##.btn-lg.btn-info.btn
-newtoki79.com##.btn-lg.btn-info.btn
-newtoki80.com##.btn-lg.btn-info.btn
+newtoki81.com##.btn-lg.btn-info.btn
+newtoki82.com##.btn-lg.btn-info.btn
+newtoki83.com##.btn-lg.btn-info.btn
+newtoki84.com##.btn-lg.btn-info.btn
+newtoki85.com##.btn-lg.btn-info.btn
 ! Reader Ads
-newtoki78.com##.col-xs-12.col-sm-6.col-md-6.col-10
-newtoki79.com##.col-xs-12.col-sm-6.col-md-6.col-10
-newtoki80.com##.col-xs-12.col-sm-6.col-md-6.col-10
+newtoki81.com##.col-xs-12.col-sm-6.col-md-6.col-10
+newtoki82.com##.col-xs-12.col-sm-6.col-md-6.col-10
+newtoki83.com##.col-xs-12.col-sm-6.col-md-6.col-10
+newtoki84.com##.col-xs-12.col-sm-6.col-md-6.col-10
+newtoki85.com##.col-xs-12.col-sm-6.col-md-6.col-10
 !
 ! Main Ad Banner
 !newtoki78.com###main-banner-view > .col-sm-9.col-md-9.col-15
