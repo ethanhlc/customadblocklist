@@ -1,51 +1,92 @@
 [Adblock Plus 2.0]
 ! Title: Ethan's Custom List
 ! Description: Ethan's personal adblock list
-! Version: 0.2
-! TimeUpdated: 2020-10-10T20:00+09:00
-! Expires: 2 days (update frequency)
+! Version: 0.5
+! TimeUpdated: 2020-12-02T00:30+09:00
+! Expires: 7 days (update frequency)
 !
 !
-!!! newtoki.com
+!!! newtoki*.com
 ! Full Banner
-newtoki81.com###main-banner-view
-newtoki82.com###main-banner-view
-newtoki83.com###main-banner-view
-newtoki84.com###main-banner-view
-newtoki85.com###main-banner-view
+newtoki86.com###main-banner-view
+newtoki87.com###main-banner-view
+newtoki88.com###main-banner-view
+newtoki89.com###main-banner-view
+newtoki90.com###main-banner-view
+newtoki91.com###main-banner-view
 ! Ad Button
-newtoki81.com##.btn-lg.btn-info.btn
-newtoki82.com##.btn-lg.btn-info.btn
-newtoki83.com##.btn-lg.btn-info.btn
-newtoki84.com##.btn-lg.btn-info.btn
-newtoki85.com##.btn-lg.btn-info.btn
+newtoki86.com##.btn-lg.btn-info.btn
+newtoki87.com##.btn-lg.btn-info.btn
+newtoki88.com##.btn-lg.btn-info.btn
+newtoki89.com##.btn-lg.btn-info.btn
+newtoki90.com##.btn-lg.btn-info.btn
+newtoki91.com##.btn-lg.btn-info.btn
 ! Reader Ads
-newtoki81.com##.col-xs-12.col-sm-6.col-md-6.col-10
-newtoki82.com##.col-xs-12.col-sm-6.col-md-6.col-10
-newtoki83.com##.col-xs-12.col-sm-6.col-md-6.col-10
-newtoki84.com##.col-xs-12.col-sm-6.col-md-6.col-10
-newtoki85.com##.col-xs-12.col-sm-6.col-md-6.col-10
+newtoki86.com##.col-xs-12.col-sm-6.col-md-6.col-10
+newtoki87.com##.col-xs-12.col-sm-6.col-md-6.col-10
+newtoki88.com##.col-xs-12.col-sm-6.col-md-6.col-10
+newtoki89.com##.col-xs-12.col-sm-6.col-md-6.col-10
+newtoki90.com##.col-xs-12.col-sm-6.col-md-6.col-10
+newtoki91.com##.col-xs-12.col-sm-6.col-md-6.col-10
 !
 ! Main Ad Banner
-!newtoki78.com###main-banner-view > .col-sm-9.col-md-9.col-15
-!newtoki79.com###main-banner-view > .col-sm-9.col-md-9.col-15
 !newtoki80.com###main-banner-view > .col-sm-9.col-md-9.col-15
 ! Chat & Ad
-!newtoki78.com###main-banner-view > .col-sm-3.col-md-3.col-15
-!newtoki79.com###main-banner-view > .col-sm-3.col-md-3.col-15
 !newtoki80.com###main-banner-view > .col-sm-3.col-md-3.col-15
 ! Banner above image - obsolete
-!newtoki78.com##.at-content > div.row-15.row:nth-of-type(2) > .col-md-12.col-15
-!newtoki79.com##.at-content > div.row-15.row:nth-of-type(2) > .col-md-12.col-15
 !newtoki80.com##.at-content > div.row-15.row:nth-of-type(2) > .col-md-12.col-15
 ! Banner Images Only - obsolete
 !||newtoki*.com/data/banner/$image
 !
 !
+!!! manatoki*.net
+! Full Banner
+manatoki86.net###main-banner-view
+manatoki87.net###main-banner-view
+manatoki88.net###main-banner-view
+manatoki89.net###main-banner-view
+manatoki90.net###main-banner-view
+manatoki91.net###main-banner-view
+! Ad Button
+manatoki86.net##.btn-lg.btn-info.btn
+manatoki87.net##.btn-lg.btn-info.btn
+manatoki88.net##.btn-lg.btn-info.btn
+manatoki89.net##.btn-lg.btn-info.btn
+manatoki90.net##.btn-lg.btn-info.btn
+manatoki91.net##.btn-lg.btn-info.btn
+! Reader Ads
+manatoki86.net##.col-xs-12.col-sm-6.col-md-6.col-10
+manatoki87.net##.col-xs-12.col-sm-6.col-md-6.col-10
+manatoki88.net##.col-xs-12.col-sm-6.col-md-6.col-10
+manatoki89.net##.col-xs-12.col-sm-6.col-md-6.col-10
+manatoki90.net##.col-xs-12.col-sm-6.col-md-6.col-10
+manatoki91.net##.col-xs-12.col-sm-6.col-md-6.col-10
+! Bottom Ad
+manatoki86.net##div.col-lg-12.col-md-6.col-sm-6.col-15.col:nth-of-type(1) > div:nth-of-type(2)
+manatoki87.net##div.col-lg-12.col-md-6.col-sm-6.col-15.col:nth-of-type(1) > div:nth-of-type(2)
+manatoki88.net##div.col-lg-12.col-md-6.col-sm-6.col-15.col:nth-of-type(1) > div:nth-of-type(2)
+manatoki89.net##div.col-lg-12.col-md-6.col-sm-6.col-15.col:nth-of-type(1) > div:nth-of-type(2)
+manatoki90.net##div.col-lg-12.col-md-6.col-sm-6.col-15.col:nth-of-type(1) > div:nth-of-type(2)
+manatoki91.net##div.col-lg-12.col-md-6.col-sm-6.col-15.col:nth-of-type(1) > div:nth-of-type(2)
+! Bottom Header
+manatoki86.net##div.row-15.row > .board-tail-banner
+manatoki87.net##div.row-15.row > .board-tail-banner
+manatoki88.net##div.row-15.row > .board-tail-banner
+manatoki89.net##div.row-15.row > .board-tail-banner
+manatoki90.net##div.row-15.row > .board-tail-banner
+manatoki91.net##div.row-15.row > .board-tail-banner
+!
+! Login
+!manatoki88.net##div.row-15.row:nth-of-type(1) > div.col-lg-12.col-md-6.col-sm-6.col-15.col:nth-of-type(1)
+! Banner Images Only - obsolete
+!||manatoki*.net/data/banner$image
+!
+!
 !!! marumaru.*
 ! Main Ad Banner
-marumaru.pics##.w_banner.row
-marumaru.sale##.w_banner.row
+!marumaru.pics##.w_banner.row
+!marumaru.sale##.w_banner.row
+marumaru.loan##.w_banner.row
 !
 !
 !
