@@ -1,25 +1,42 @@
 [Adblock Plus 2.0]
 ! Title: Ethan's Custom List
 ! Description: Ethan's personal adblock list
-! Version: 0.5
-! TimeUpdated: 2021-07-09T15:00+09:00
+! Version: 0.6
+! TimeUpdated: 2021-10-19T01:00+09:00
 ! Expires: 7 days (update frequency)
 !------------------
 !
 !!! newtoki*.com
 ! Full Banner
-newtoki95.com###main-banner-view
-newtoki96.com###main-banner-view
+newtoki105.com###main-banner-view
+newtoki106.com###main-banner-view
+newtoki107.com###main-banner-view
+newtoki108.com###main-banner-view
+newtoki109.com###main-banner-view
 ! Ad Button
-newtoki95.com##.btn-lg.btn-info.btn
-newtoki96.com##.btn-lg.btn-info.btn
+newtoki105.com##.btn-lg.btn-info.btn
+newtoki106.com##.btn-lg.btn-info.btn
+newtoki107.com##.btn-lg.btn-info.btn
+newtoki108.com##.btn-lg.btn-info.btn
+newtoki109.com##.btn-lg.btn-info.btn
 ! Reader Ads
-newtoki95.com##.col-xs-12.col-sm-6.col-md-6.col-10
-newtoki96.com##.col-xs-12.col-sm-6.col-md-6.col-10
+newtoki105.com##.col-xs-12.col-sm-6.col-md-6.col-10
+newtoki106.com##.col-xs-12.col-sm-6.col-md-6.col-10
+newtoki107.com##.col-xs-12.col-sm-6.col-md-6.col-10
+newtoki108.com##.col-xs-12.col-sm-6.col-md-6.col-10
+newtoki109.com##.col-xs-12.col-sm-6.col-md-6.col-10
 ! new Reader Ads
-newtoki95.com##.col-sm-9.col-md-9.col-15
+newtoki105.com##.col-sm-9.col-md-9.col-15
+newtoki106.com##.col-sm-9.col-md-9.col-15
+newtoki107.com##.col-sm-9.col-md-9.col-15
+newtoki108.com##.col-sm-9.col-md-9.col-15
+newtoki109.com##.col-sm-9.col-md-9.col-15
 ! Chat
-newtoki95.com##.col-sm-3.col-md-3.col-15 > div:nth-of-type(2)
+newtoki105.com##.col-sm-3.col-md-3.col-15 > div:nth-of-type(2)
+newtoki106.com##.col-sm-3.col-md-3.col-15 > div:nth-of-type(2)
+newtoki107.com##.col-sm-3.col-md-3.col-15 > div:nth-of-type(2)
+newtoki108.com##.col-sm-3.col-md-3.col-15 > div:nth-of-type(2)
+newtoki109.com##.col-sm-3.col-md-3.col-15 > div:nth-of-type(2)
 !
 !!! manatoki*.net
 ! Full Banner
