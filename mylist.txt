@@ -8,35 +8,35 @@
 !
 !!! newtoki*.com
 ! Full Banner
-newtoki111.com###main-banner-view
-newtoki112.com###main-banner-view
-newtoki113.com###main-banner-view
-newtoki114.com###main-banner-view
-newtoki115.com###main-banner-view
+newtoki116.com###main-banner-view
+newtoki117.com###main-banner-view
+newtoki118.com###main-banner-view
+newtoki119.com###main-banner-view
+newtoki120.com###main-banner-view
 ! Ad Button
-newtoki111.com##.btn-lg.btn-info.btn
-newtoki112.com##.btn-lg.btn-info.btn
-newtoki113.com##.btn-lg.btn-info.btn
-newtoki114.com##.btn-lg.btn-info.btn
-newtoki115.com##.btn-lg.btn-info.btn
+newtoki116.com##.btn-lg.btn-info.btn
+newtoki117.com##.btn-lg.btn-info.btn
+newtoki118.com##.btn-lg.btn-info.btn
+newtoki119.com##.btn-lg.btn-info.btn
+newtoki120.com##.btn-lg.btn-info.btn
 ! Reader Ads
-newtoki111.com##.col-xs-12.col-sm-6.col-md-6.col-10
-newtoki112.com##.col-xs-12.col-sm-6.col-md-6.col-10
-newtoki113.com##.col-xs-12.col-sm-6.col-md-6.col-10
-newtoki114.com##.col-xs-12.col-sm-6.col-md-6.col-10
-newtoki115.com##.col-xs-12.col-sm-6.col-md-6.col-10
+newtoki116.com##.col-xs-12.col-sm-6.col-md-6.col-10
+newtoki117.com##.col-xs-12.col-sm-6.col-md-6.col-10
+newtoki118.com##.col-xs-12.col-sm-6.col-md-6.col-10
+newtoki119.com##.col-xs-12.col-sm-6.col-md-6.col-10
+newtoki120.com##.col-xs-12.col-sm-6.col-md-6.col-10
 ! new Reader Ads
-newtoki111.com##.col-sm-9.col-md-9.col-15
-newtoki112.com##.col-sm-9.col-md-9.col-15
-newtoki113.com##.col-sm-9.col-md-9.col-15
-newtoki114.com##.col-sm-9.col-md-9.col-15
-newtoki115.com##.col-sm-9.col-md-9.col-15
+newtoki116.com##.col-sm-9.col-md-9.col-15
+newtoki117.com##.col-sm-9.col-md-9.col-15
+newtoki118.com##.col-sm-9.col-md-9.col-15
+newtoki119.com##.col-sm-9.col-md-9.col-15
+newtoki120.com##.col-sm-9.col-md-9.col-15
 ! Chat
-newtoki111.com##.col-sm-3.col-md-3.col-15 > div:nth-of-type(2)
-newtoki112.com##.col-sm-3.col-md-3.col-15 > div:nth-of-type(2)
-newtoki113.com##.col-sm-3.col-md-3.col-15 > div:nth-of-type(2)
-newtoki114.com##.col-sm-3.col-md-3.col-15 > div:nth-of-type(2)
-newtoki115.com##.col-sm-3.col-md-3.col-15 > div:nth-of-type(2)
+newtoki116.com##.col-sm-3.col-md-3.col-15 > div:nth-of-type(2)
+newtoki117.com##.col-sm-3.col-md-3.col-15 > div:nth-of-type(2)
+newtoki118.com##.col-sm-3.col-md-3.col-15 > div:nth-of-type(2)
+newtoki119.com##.col-sm-3.col-md-3.col-15 > div:nth-of-type(2)
+newtoki120.com##.col-sm-3.col-md-3.col-15 > div:nth-of-type(2)
 !
 !!! manatoki*.net
 ! Full Banner
