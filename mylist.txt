@@ -1,42 +1,66 @@
 [Adblock Plus 2.0]
 ! Title: Ethan's Custom List
 ! Description: Ethan's personal adblock list
-! Version: 0.6
-! TimeUpdated: 2021-11-06T22:00+09:00
+! Version: 0.7
+! TimeUpdated: 2022-01-13T12:00+09:00
 ! Expires: 7 days (update frequency)
 !------------------
 !
 !!! newtoki*.com
-! Full Banner
-newtoki116.com###main-banner-view
-newtoki117.com###main-banner-view
-newtoki118.com###main-banner-view
+! Full Banner (incl. login)
 newtoki119.com###main-banner-view
 newtoki120.com###main-banner-view
+newtoki120.com###main-banner-view
+newtoki120.com###main-banner-view
+newtoki120.com###main-banner-view
+newtoki120.com###main-banner-view
 ! Ad Button
-newtoki116.com##.btn-lg.btn-info.btn
-newtoki117.com##.btn-lg.btn-info.btn
-newtoki118.com##.btn-lg.btn-info.btn
 newtoki119.com##.btn-lg.btn-info.btn
-newtoki120.com##.btn-lg.btn-info.btn
+newtoki121.com##.btn-lg.btn-info.btn
+newtoki122.com##.btn-lg.btn-info.btn
+newtoki123.com##.btn-lg.btn-info.btn
+newtoki124.com##.btn-lg.btn-info.btn
 ! Reader Ads
-newtoki116.com##.col-xs-12.col-sm-6.col-md-6.col-10
-newtoki117.com##.col-xs-12.col-sm-6.col-md-6.col-10
-newtoki118.com##.col-xs-12.col-sm-6.col-md-6.col-10
-newtoki119.com##.col-xs-12.col-sm-6.col-md-6.col-10
-newtoki120.com##.col-xs-12.col-sm-6.col-md-6.col-10
-! new Reader Ads
-newtoki116.com##.col-sm-9.col-md-9.col-15
-newtoki117.com##.col-sm-9.col-md-9.col-15
-newtoki118.com##.col-sm-9.col-md-9.col-15
+newtoki119.com##.row-10.row.basic-banner
+newtoki120.com##.row-10.row.basic-banner
+newtoki121.com##.row-10.row.basic-banner
+newtoki122.com##.row-10.row.basic-banner
+newtoki123.com##.row-10.row.basic-banner
+newtoki124.com##.row-10.row.basic-banner
+! Reader Banner Top
 newtoki119.com##.col-sm-9.col-md-9.col-15
 newtoki120.com##.col-sm-9.col-md-9.col-15
-! Chat
-newtoki116.com##.col-sm-3.col-md-3.col-15 > div:nth-of-type(2)
-newtoki117.com##.col-sm-3.col-md-3.col-15 > div:nth-of-type(2)
-newtoki118.com##.col-sm-3.col-md-3.col-15 > div:nth-of-type(2)
-newtoki119.com##.col-sm-3.col-md-3.col-15 > div:nth-of-type(2)
-newtoki120.com##.col-sm-3.col-md-3.col-15 > div:nth-of-type(2)
+newtoki121.com##.col-sm-9.col-md-9.col-15
+newtoki122.com##.col-sm-9.col-md-9.col-15
+newtoki123.com##.col-sm-9.col-md-9.col-15
+newtoki124.com##.col-sm-9.col-md-9.col-15
+! Reader Ads Bottom
+newtoki119.com##.col-sm-3.col-md-3.col-15
+newtoki120.com##.col-sm-3.col-md-3.col-15
+newtoki121.com##.col-sm-3.col-md-3.col-15
+newtoki122.com##.col-sm-3.col-md-3.col-15
+newtoki123.com##.col-sm-3.col-md-3.col-15
+newtoki124.com##.col-sm-3.col-md-3.col-15
+!
+!!! buzztoon*.com
+! Main Banner
+buzztoon125.com###thema_wrapper > div:nth-of-type(3)
+buzztoon126.com###thema_wrapper > div:nth-of-type(3)
+buzztoon127.com###thema_wrapper > div:nth-of-type(3)
+buzztoon128.com###thema_wrapper > div:nth-of-type(3)
+buzztoon129.com###thema_wrapper > div:nth-of-type(3)
+! Side Banners
+buzztoon125.com##.hidden-xs.banner_wing
+buzztoon126.com##.hidden-xs.banner_wing
+buzztoon127.com##.hidden-xs.banner_wing
+buzztoon128.com##.hidden-xs.banner_wing
+buzztoon129.com##.hidden-xs.banner_wing
+! Reader Bottom
+buzztoon125.com##.at-content > div.at-container
+buzztoon126.com##.at-content > div.at-container
+buzztoon127.com##.at-content > div.at-container
+buzztoon128.com##.at-content > div.at-container
+buzztoon129.com##.at-content > div.at-container
 !
 !!! manatoki*.net
 ! Full Banner
