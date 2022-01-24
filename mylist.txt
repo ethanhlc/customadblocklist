@@ -3,7 +3,7 @@
 ! Title: Ethan's Custom List
 ! Description: Ethan's personal adblock list
 ! Version: 1.0
-! TimeUpdated: 2022-01-13T17:00+09:00
+! TimeUpdated: 2022-01-24T13:00+09:00
 ! Expires: 7 days (update frequency)
 !-----------------------------------------------------------------------------
 
@@ -44,11 +44,16 @@ newtoki124.com##.btn-lg.btn-info.btn
 ! buzztoon*.com
 !-----------------------------------------------------------------------------
 ! Main Banner
-buzztoon125.com##[id*="_banner_basic_"]
-buzztoon126.com##[id*="_banner_basic_"]
-buzztoon127.com##[id*="_banner_basic_"]
-buzztoon128.com##[id*="_banner_basic_"]
-buzztoon129.com##[id*="_banner_basic_"]
+buzztoon150.com##[id*="_banner_basic_"]
+buzztoon151.com##[id*="_banner_basic_"]
+buzztoon152.com##[id*="_banner_basic_"]
+buzztoon153.com##[id*="_banner_basic_"]
+buzztoon154.com##[id*="_banner_basic_"]
+buzztoon155.com##[id*="_banner_basic_"]
+buzztoon156.com##[id*="_banner_basic_"]
+buzztoon157.com##[id*="_banner_basic_"]
+buzztoon158.com##[id*="_banner_basic_"]
+buzztoon159.com##[id*="_banner_basic_"]
 !
 !-----------------------------------------------------------------------------
 ! manatoki*.net
