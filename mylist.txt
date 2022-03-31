@@ -3,95 +3,85 @@
 ! Title: Ethan's Custom List
 ! Description: Ethan's personal adblock list
 ! Version: 1.0
-! TimeUpdated: 2022-01-24T13:00+09:00
-! Expires: 7 days (update frequency)
+! TimeUpdated: 2022-03-31T16:00+09:00
+! Expires: 30 days (update frequency)
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
 ! newtoki*.com
 !-----------------------------------------------------------------------------
 ! Full Banner (incl. login)
-newtoki119.com###main-banner-view
-newtoki120.com###main-banner-view
-newtoki121.com###main-banner-view
-newtoki122.com###main-banner-view
-newtoki123.com###main-banner-view
-newtoki124.com###main-banner-view
+newtoki125.com###main-banner-view
+newtoki126.com###main-banner-view
+newtoki127.com###main-banner-view
+newtoki128.com###main-banner-view
+newtoki129.com###main-banner-view
 ! Additional Ads
-newtoki119.com###id_mbv
-newtoki120.com###id_mbv
-newtoki121.com###id_mbv
-newtoki122.com###id_mbv
-newtoki123.com###id_mbv
-newtoki124.com###id_mbv
+newtoki125.com###id_mbv
+newtoki126.com###id_mbv
+newtoki127.com###id_mbv
+newtoki128.com###id_mbv
+newtoki129.com###id_mbv
 ! Reader Ads
-newtoki119.com##.basic-banner
-newtoki120.com##.basic-banner
-newtoki121.com##.basic-banner
-newtoki122.com##.basic-banner
-newtoki123.com##.basic-banner
-newtoki124.com##.basic-banner
+newtoki125.com##.basic-banner
+newtoki126.com##.basic-banner
+newtoki127.com##.basic-banner
+newtoki128.com##.basic-banner
+newtoki129.com##.basic-banner
 !
 ! Ad Button
-newtoki119.com##.btn-lg.btn-info.btn
-newtoki120.com##.btn-lg.btn-info.btn
-newtoki121.com##.btn-lg.btn-info.btn
-newtoki122.com##.btn-lg.btn-info.btn
-newtoki123.com##.btn-lg.btn-info.btn
-newtoki124.com##.btn-lg.btn-info.btn
+newtoki125.com##.btn-lg.btn-info.btn
+newtoki126.com##.btn-lg.btn-info.btn
+newtoki127.com##.btn-lg.btn-info.btn
+newtoki128.com##.btn-lg.btn-info.btn
+newtoki129.com##.btn-lg.btn-info.btn
 !
 !-----------------------------------------------------------------------------
 ! buzztoon*.com
 !-----------------------------------------------------------------------------
 ! Main Banner
-buzztoon150.com##[id*="_banner_basic_"]
-buzztoon151.com##[id*="_banner_basic_"]
-buzztoon152.com##[id*="_banner_basic_"]
-buzztoon153.com##[id*="_banner_basic_"]
-buzztoon154.com##[id*="_banner_basic_"]
-buzztoon155.com##[id*="_banner_basic_"]
-buzztoon156.com##[id*="_banner_basic_"]
-buzztoon157.com##[id*="_banner_basic_"]
-buzztoon158.com##[id*="_banner_basic_"]
-buzztoon159.com##[id*="_banner_basic_"]
+buzztoon160.com##[id*="_banner_basic_"]
+buzztoon161.com##[id*="_banner_basic_"]
+buzztoon162.com##[id*="_banner_basic_"]
+buzztoon163.com##[id*="_banner_basic_"]
+buzztoon164.com##[id*="_banner_basic_"]
+buzztoon165.com##[id*="_banner_basic_"]
+buzztoon166.com##[id*="_banner_basic_"]
+buzztoon167.com##[id*="_banner_basic_"]
+buzztoon168.com##[id*="_banner_basic_"]
+buzztoon169.com##[id*="_banner_basic_"]
 !
 !-----------------------------------------------------------------------------
 ! manatoki*.net
 !-----------------------------------------------------------------------------
 ! Full Banner
-! Full Banner (incl. login)
-manatoki119.net###main-banner-view
-manatoki120.net###main-banner-view
-manatoki121.net###main-banner-view
-manatoki122.net###main-banner-view
-manatoki123.net###main-banner-view
-manatoki124.net###main-banner-view
+manatoki125.net###main-banner-view
+manatoki126.net###main-banner-view
+manatoki127.net###main-banner-view
+manatoki128.net###main-banner-view
+manatoki129.net###main-banner-view
 ! Ad Button & Additional
-manatoki119.net###id_mbv
-manatoki120.net###id_mbv
-manatoki121.net###id_mbv
-manatoki122.net###id_mbv
-manatoki123.net###id_mbv
-manatoki124.net###id_mbv
+manatoki125.net###id_mbv
+manatoki126.net###id_mbv
+manatoki127.net###id_mbv
+manatoki128.net###id_mbv
+manatoki129.net###id_mbv
 ! Reader Ads
-manatoki119.net##.basic-banner
-manatoki120.net##.basic-banner
-manatoki121.net##.basic-banner
-manatoki122.net##.basic-banner
-manatoki123.net##.basic-banner
-manatoki124.net##.basic-banner
+manatoki125.net##.basic-banner
+manatoki126.net##.basic-banner
+manatoki127.net##.basic-banner
+manatoki128.net##.basic-banner
+manatoki129.net##.basic-banner
 ! Tail Banner
-manatoki119.net##.board-tail-banner
-manatoki120.net##.board-tail-banner
-manatoki121.net##.board-tail-banner
-manatoki122.net##.board-tail-banner
-manatoki123.net##.board-tail-banner
-manatoki124.net##.board-tail-banner
+manatoki125.net##.board-tail-banner
+manatoki126.net##.board-tail-banner
+manatoki127.net##.board-tail-banner
+manatoki128.net##.board-tail-banner
+manatoki129.net##.board-tail-banner
 ! Login
-manatoki119.net##div[style*="background:#fafafa"]
-manatoki120.net##div[style*="background:#fafafa"]
-manatoki121.net##div[style*="background:#fafafa"]
-manatoki122.net##div[style*="background:#fafafa"]
-manatoki123.net##div[style*="background:#fafafa"]
-manatoki124.net##div[style*="background:#fafafa"]
+manatoki125.net##div[style*="background:#fafafa"]
+manatoki126.net##div[style*="background:#fafafa"]
+manatoki127.net##div[style*="background:#fafafa"]
+manatoki128.net##div[style*="background:#fafafa"]
+manatoki129.net##div[style*="background:#fafafa"]
 
