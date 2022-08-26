@@ -3,7 +3,7 @@
 ! Title: Ethan's Custom List
 ! Description: Ethan's personal adblock list
 ! Version: 1.0
-! TimeUpdated: 2022-06-01T00:00+09:00
+! TimeUpdated: 2022-08-26T12:00+09:00
 ! Expires: 30 days (update frequency)
 !-----------------------------------------------------------------------------
 
@@ -128,3 +128,40 @@ manatoki156.net##div[style*="background:#fafafa"]
 manatoki157.net##div[style*="background:#fafafa"]
 manatoki158.net##div[style*="background:#fafafa"]
 manatoki159.net##div[style*="background:#fafafa"]
+!
+!-----------------------------------------------------------------------------
+! booktoki*.net
+!-----------------------------------------------------------------------------
+! Full Banner
+booktoki150.com###main-banner-view
+booktoki151.com###main-banner-view
+booktoki152.com###main-banner-view
+booktoki153.com###main-banner-view
+booktoki154.com###main-banner-view
+booktoki155.com###main-banner-view
+booktoki156.com###main-banner-view
+booktoki157.com###main-banner-view
+booktoki158.com###main-banner-view
+booktoki159.com###main-banner-view
+! Ad Button & Additional
+booktoki150.com###id_mbv
+booktoki151.com###id_mbv
+booktoki152.com###id_mbv
+booktoki153.com###id_mbv
+booktoki154.com###id_mbv
+booktoki155.com###id_mbv
+booktoki156.com###id_mbv
+booktoki157.com###id_mbv
+booktoki158.com###id_mbv
+booktoki159.com###id_mbv
+! Banner Space
+booktoki150.com##div[style*="padding: 15px 15px 0;"]
+booktoki151.com##div[style*="padding: 15px 15px 0;"]
+booktoki152.com##div[style*="padding: 15px 15px 0;"]
+booktoki153.com##div[style*="padding: 15px 15px 0;"]
+booktoki154.com##div[style*="padding: 15px 15px 0;"]
+booktoki155.com##div[style*="padding: 15px 15px 0;"]
+booktoki156.com##div[style*="padding: 15px 15px 0;"]
+booktoki157.com##div[style*="padding: 15px 15px 0;"]
+booktoki158.com##div[style*="padding: 15px 15px 0;"]
+booktoki159.com##div[style*="padding: 15px 15px 0;"]
