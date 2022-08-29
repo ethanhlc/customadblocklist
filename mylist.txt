@@ -56,21 +56,6 @@ newtoki158.com##.btn-lg.btn-info.btn
 newtoki159.com##.btn-lg.btn-info.btn
 !
 !-----------------------------------------------------------------------------
-! buzztoon*.com
-!-----------------------------------------------------------------------------
-! Main Banner
-buzztoon160.com##[id*="_banner_basic_"]
-buzztoon161.com##[id*="_banner_basic_"]
-buzztoon162.com##[id*="_banner_basic_"]
-buzztoon163.com##[id*="_banner_basic_"]
-buzztoon164.com##[id*="_banner_basic_"]
-buzztoon165.com##[id*="_banner_basic_"]
-buzztoon166.com##[id*="_banner_basic_"]
-buzztoon167.com##[id*="_banner_basic_"]
-buzztoon168.com##[id*="_banner_basic_"]
-buzztoon169.com##[id*="_banner_basic_"]
-!
-!-----------------------------------------------------------------------------
 ! manatoki*.net
 !-----------------------------------------------------------------------------
 ! Full Banner
