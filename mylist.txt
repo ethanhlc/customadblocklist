@@ -3,7 +3,7 @@
 ! Title: Ethan's Custom List
 ! Description: Ethan's personal adblock list
 ! Version: 1.0
-! TimeUpdated: 2022-10-31T23:00+09:00
+! TimeUpdated: 2023-01-27T15:00+09:00
 ! Expires: 30 days (update frequency)
 !-----------------------------------------------------------------------------
 
@@ -11,49 +11,49 @@
 ! newtoki*.com
 !-----------------------------------------------------------------------------
 ! Full Banner (incl. login)
-newtoki160.com###main-banner-view
-newtoki161.com###main-banner-view
-newtoki162.com###main-banner-view
-newtoki163.com###main-banner-view
-newtoki164.com###main-banner-view
-newtoki165.com###main-banner-view
-newtoki166.com###main-banner-view
-newtoki167.com###main-banner-view
-newtoki168.com###main-banner-view
-newtoki169.com###main-banner-view
+newtoki210.com###main-banner-view
+newtoki211.com###main-banner-view
+newtoki212.com###main-banner-view
+newtoki213.com###main-banner-view
+newtoki214.com###main-banner-view
+newtoki215.com###main-banner-view
+newtoki216.com###main-banner-view
+newtoki217.com###main-banner-view
+newtoki218.com###main-banner-view
+newtoki219.com###main-banner-view
 ! Additional Ads
-newtoki160.com###id_mbv
-newtoki161.com###id_mbv
-newtoki162.com###id_mbv
-newtoki163.com###id_mbv
-newtoki164.com###id_mbv
-newtoki165.com###id_mbv
-newtoki166.com###id_mbv
-newtoki167.com###id_mbv
-newtoki168.com###id_mbv
-newtoki169.com###id_mbv
+newtoki210.com###id_mbv
+newtoki211.com###id_mbv
+newtoki212.com###id_mbv
+newtoki213.com###id_mbv
+newtoki214.com###id_mbv
+newtoki215.com###id_mbv
+newtoki216.com###id_mbv
+newtoki217.com###id_mbv
+newtoki218.com###id_mbv
+newtoki219.com###id_mbv
 ! Reader Ads
-newtoki160.com##.basic-banner
-newtoki161.com##.basic-banner
-newtoki162.com##.basic-banner
-newtoki163.com##.basic-banner
-newtoki164.com##.basic-banner
-newtoki165.com##.basic-banner
-newtoki166.com##.basic-banner
-newtoki167.com##.basic-banner
-newtoki168.com##.basic-banner
-newtoki169.com##.basic-banner
+newtoki210.com##.basic-banner
+newtoki211.com##.basic-banner
+newtoki212.com##.basic-banner
+newtoki213.com##.basic-banner
+newtoki214.com##.basic-banner
+newtoki215.com##.basic-banner
+newtoki216.com##.basic-banner
+newtoki217.com##.basic-banner
+newtoki218.com##.basic-banner
+newtoki219.com##.basic-banner
 ! Ad Button
-newtoki160.com##.btn-lg.btn-info.btn
-newtoki161.com##.btn-lg.btn-info.btn
-newtoki162.com##.btn-lg.btn-info.btn
-newtoki163.com##.btn-lg.btn-info.btn
-newtoki164.com##.btn-lg.btn-info.btn
-newtoki165.com##.btn-lg.btn-info.btn
-newtoki166.com##.btn-lg.btn-info.btn
-newtoki167.com##.btn-lg.btn-info.btn
-newtoki168.com##.btn-lg.btn-info.btn
-newtoki169.com##.btn-lg.btn-info.btn
+newtoki210.com##.btn-lg.btn-info.btn
+newtoki211.com##.btn-lg.btn-info.btn
+newtoki212.com##.btn-lg.btn-info.btn
+newtoki213.com##.btn-lg.btn-info.btn
+newtoki214.com##.btn-lg.btn-info.btn
+newtoki215.com##.btn-lg.btn-info.btn
+newtoki216.com##.btn-lg.btn-info.btn
+newtoki217.com##.btn-lg.btn-info.btn
+newtoki218.com##.btn-lg.btn-info.btn
+newtoki219.com##.btn-lg.btn-info.btn
 !
 !-----------------------------------------------------------------------------
 ! manatoki*.net
