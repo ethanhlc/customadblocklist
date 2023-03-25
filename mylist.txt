@@ -11,142 +11,142 @@
 ! newtoki*.com
 !-----------------------------------------------------------------------------
 ! Full Banner (incl. login)
-newtoki220.com###main-banner-view
-newtoki221.com###main-banner-view
-newtoki222.com###main-banner-view
-newtoki223.com###main-banner-view
-newtoki224.com###main-banner-view
-newtoki225.com###main-banner-view
-newtoki226.com###main-banner-view
-newtoki227.com###main-banner-view
-newtoki228.com###main-banner-view
-newtoki229.com###main-banner-view
+newtoki280.com###main-banner-view
+newtoki281.com###main-banner-view
+newtoki282.com###main-banner-view
+newtoki283.com###main-banner-view
+newtoki284.com###main-banner-view
+newtoki285.com###main-banner-view
+newtoki286.com###main-banner-view
+newtoki287.com###main-banner-view
+newtoki288.com###main-banner-view
+newtoki289.com###main-banner-view
 ! Additional Ads
-newtoki220.com###id_mbv
-newtoki221.com###id_mbv
-newtoki222.com###id_mbv
-newtoki223.com###id_mbv
-newtoki224.com###id_mbv
-newtoki225.com###id_mbv
-newtoki226.com###id_mbv
-newtoki227.com###id_mbv
-newtoki228.com###id_mbv
-newtoki229.com###id_mbv
+newtoki280.com###id_mbv
+newtoki281.com###id_mbv
+newtoki282.com###id_mbv
+newtoki283.com###id_mbv
+newtoki284.com###id_mbv
+newtoki285.com###id_mbv
+newtoki286.com###id_mbv
+newtoki287.com###id_mbv
+newtoki288.com###id_mbv
+newtoki289.com###id_mbv
 ! Reader Ads
-newtoki220.com##.basic-banner
-newtoki221.com##.basic-banner
-newtoki222.com##.basic-banner
-newtoki223.com##.basic-banner
-newtoki224.com##.basic-banner
-newtoki225.com##.basic-banner
-newtoki226.com##.basic-banner
-newtoki227.com##.basic-banner
-newtoki228.com##.basic-banner
-newtoki229.com##.basic-banner
+newtoki280.com##.basic-banner
+newtoki281.com##.basic-banner
+newtoki282.com##.basic-banner
+newtoki283.com##.basic-banner
+newtoki284.com##.basic-banner
+newtoki285.com##.basic-banner
+newtoki286.com##.basic-banner
+newtoki287.com##.basic-banner
+newtoki288.com##.basic-banner
+newtoki289.com##.basic-banner
 ! Ad Button
-newtoki220.com##.btn-lg.btn-info.btn
-newtoki221.com##.btn-lg.btn-info.btn
-newtoki222.com##.btn-lg.btn-info.btn
-newtoki223.com##.btn-lg.btn-info.btn
-newtoki224.com##.btn-lg.btn-info.btn
-newtoki225.com##.btn-lg.btn-info.btn
-newtoki226.com##.btn-lg.btn-info.btn
-newtoki227.com##.btn-lg.btn-info.btn
-newtoki228.com##.btn-lg.btn-info.btn
-newtoki229.com##.btn-lg.btn-info.btn
+newtoki280.com##.btn-lg.btn-info.btn
+newtoki281.com##.btn-lg.btn-info.btn
+newtoki282.com##.btn-lg.btn-info.btn
+newtoki283.com##.btn-lg.btn-info.btn
+newtoki284.com##.btn-lg.btn-info.btn
+newtoki285.com##.btn-lg.btn-info.btn
+newtoki286.com##.btn-lg.btn-info.btn
+newtoki287.com##.btn-lg.btn-info.btn
+newtoki288.com##.btn-lg.btn-info.btn
+newtoki289.com##.btn-lg.btn-info.btn
 !
 !-----------------------------------------------------------------------------
 ! manatoki*.net
 !-----------------------------------------------------------------------------
 ! Full Banner
-manatoki220.net###main-banner-view
-manatoki221.net###main-banner-view
-manatoki222.net###main-banner-view
-manatoki223.net###main-banner-view
-manatoki224.net###main-banner-view
-manatoki225.net###main-banner-view
-manatoki226.net###main-banner-view
-manatoki227.net###main-banner-view
-manatoki228.net###main-banner-view
-manatoki229.net###main-banner-view
+manatoki280.net###main-banner-view
+manatoki281.net###main-banner-view
+manatoki282.net###main-banner-view
+manatoki283.net###main-banner-view
+manatoki284.net###main-banner-view
+manatoki285.net###main-banner-view
+manatoki286.net###main-banner-view
+manatoki287.net###main-banner-view
+manatoki288.net###main-banner-view
+manatoki289.net###main-banner-view
 ! Ad Button & Additional
-manatoki220.net###id_mbv
-manatoki221.net###id_mbv
-manatoki222.net###id_mbv
-manatoki223.net###id_mbv
-manatoki224.net###id_mbv
-manatoki225.net###id_mbv
-manatoki226.net###id_mbv
-manatoki227.net###id_mbv
-manatoki228.net###id_mbv
-manatoki229.net###id_mbv
+manatoki280.net###id_mbv
+manatoki281.net###id_mbv
+manatoki282.net###id_mbv
+manatoki283.net###id_mbv
+manatoki284.net###id_mbv
+manatoki285.net###id_mbv
+manatoki286.net###id_mbv
+manatoki287.net###id_mbv
+manatoki288.net###id_mbv
+manatoki289.net###id_mbv
 ! Reader Ads
-manatoki220.net##.basic-banner
-manatoki221.net##.basic-banner
-manatoki222.net##.basic-banner
-manatoki223.net##.basic-banner
-manatoki224.net##.basic-banner
-manatoki225.net##.basic-banner
-manatoki226.net##.basic-banner
-manatoki227.net##.basic-banner
-manatoki228.net##.basic-banner
-manatoki229.net##.basic-banner
+manatoki280.net##.basic-banner
+manatoki281.net##.basic-banner
+manatoki282.net##.basic-banner
+manatoki283.net##.basic-banner
+manatoki284.net##.basic-banner
+manatoki285.net##.basic-banner
+manatoki286.net##.basic-banner
+manatoki287.net##.basic-banner
+manatoki288.net##.basic-banner
+manatoki289.net##.basic-banner
 ! Tail Banner
-manatoki220.net##.board-tail-banner
-manatoki221.net##.board-tail-banner
-manatoki222.net##.board-tail-banner
-manatoki223.net##.board-tail-banner
-manatoki224.net##.board-tail-banner
-manatoki225.net##.board-tail-banner
-manatoki226.net##.board-tail-banner
-manatoki227.net##.board-tail-banner
-manatoki228.net##.board-tail-banner
-manatoki229.net##.board-tail-banner
+manatoki280.net##.board-tail-banner
+manatoki281.net##.board-tail-banner
+manatoki282.net##.board-tail-banner
+manatoki283.net##.board-tail-banner
+manatoki284.net##.board-tail-banner
+manatoki285.net##.board-tail-banner
+manatoki286.net##.board-tail-banner
+manatoki287.net##.board-tail-banner
+manatoki288.net##.board-tail-banner
+manatoki289.net##.board-tail-banner
 ! Login
-manatoki220.net##div[style*="background:#fafafa"]
-manatoki221.net##div[style*="background:#fafafa"]
-manatoki222.net##div[style*="background:#fafafa"]
-manatoki223.net##div[style*="background:#fafafa"]
-manatoki224.net##div[style*="background:#fafafa"]
-manatoki225.net##div[style*="background:#fafafa"]
-manatoki226.net##div[style*="background:#fafafa"]
-manatoki227.net##div[style*="background:#fafafa"]
-manatoki228.net##div[style*="background:#fafafa"]
-manatoki229.net##div[style*="background:#fafafa"]
+manatoki280.net##div[style*="background:#fafafa"]
+manatoki281.net##div[style*="background:#fafafa"]
+manatoki282.net##div[style*="background:#fafafa"]
+manatoki283.net##div[style*="background:#fafafa"]
+manatoki284.net##div[style*="background:#fafafa"]
+manatoki285.net##div[style*="background:#fafafa"]
+manatoki286.net##div[style*="background:#fafafa"]
+manatoki287.net##div[style*="background:#fafafa"]
+manatoki288.net##div[style*="background:#fafafa"]
+manatoki289.net##div[style*="background:#fafafa"]
 !
 !-----------------------------------------------------------------------------
 ! booktoki*.net
 !-----------------------------------------------------------------------------
 ! Full Banner
-booktoki220.com###main-banner-view
-booktoki221.com###main-banner-view
-booktoki222.com###main-banner-view
-booktoki223.com###main-banner-view
-booktoki224.com###main-banner-view
-booktoki225.com###main-banner-view
-booktoki226.com###main-banner-view
-booktoki227.com###main-banner-view
-booktoki228.com###main-banner-view
-booktoki229.com###main-banner-view
+booktoki280.com###main-banner-view
+booktoki281.com###main-banner-view
+booktoki282.com###main-banner-view
+booktoki283.com###main-banner-view
+booktoki284.com###main-banner-view
+booktoki285.com###main-banner-view
+booktoki286.com###main-banner-view
+booktoki287.com###main-banner-view
+booktoki288.com###main-banner-view
+booktoki289.com###main-banner-view
 ! Ad Button & Additional
-booktoki220.com###id_mbv
-booktoki221.com###id_mbv
-booktoki222.com###id_mbv
-booktoki223.com###id_mbv
-booktoki224.com###id_mbv
-booktoki225.com###id_mbv
-booktoki226.com###id_mbv
-booktoki227.com###id_mbv
-booktoki228.com###id_mbv
-booktoki229.com###id_mbv
+booktoki280.com###id_mbv
+booktoki281.com###id_mbv
+booktoki282.com###id_mbv
+booktoki283.com###id_mbv
+booktoki284.com###id_mbv
+booktoki285.com###id_mbv
+booktoki286.com###id_mbv
+booktoki287.com###id_mbv
+booktoki288.com###id_mbv
+booktoki289.com###id_mbv
 ! Banner Space
-booktoki220.com##div[style*="padding: 15px 15px 0;"]
-booktoki221.com##div[style*="padding: 15px 15px 0;"]
-booktoki222.com##div[style*="padding: 15px 15px 0;"]
-booktoki223.com##div[style*="padding: 15px 15px 0;"]
-booktoki224.com##div[style*="padding: 15px 15px 0;"]
-booktoki225.com##div[style*="padding: 15px 15px 0;"]
-booktoki226.com##div[style*="padding: 15px 15px 0;"]
-booktoki227.com##div[style*="padding: 15px 15px 0;"]
-booktoki228.com##div[style*="padding: 15px 15px 0;"]
-booktoki229.com##div[style*="padding: 15px 15px 0;"]
+booktoki280.com##div[style*="padding: 15px 15px 0;"]
+booktoki281.com##div[style*="padding: 15px 15px 0;"]
+booktoki282.com##div[style*="padding: 15px 15px 0;"]
+booktoki283.com##div[style*="padding: 15px 15px 0;"]
+booktoki284.com##div[style*="padding: 15px 15px 0;"]
+booktoki285.com##div[style*="padding: 15px 15px 0;"]
+booktoki286.com##div[style*="padding: 15px 15px 0;"]
+booktoki287.com##div[style*="padding: 15px 15px 0;"]
+booktoki288.com##div[style*="padding: 15px 15px 0;"]
+booktoki289.com##div[style*="padding: 15px 15px 0;"]
