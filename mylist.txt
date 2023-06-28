@@ -139,6 +139,17 @@ booktoki296.com###id_mbv
 booktoki297.com###id_mbv
 booktoki298.com###id_mbv
 booktoki299.com###id_mbv
+! Reader Ads
+booktoki290.com##.basic-banner
+booktoki291.com##.basic-banner
+booktoki292.com##.basic-banner
+booktoki293.com##.basic-banner
+booktoki294.com##.basic-banner
+booktoki295.com##.basic-banner
+booktoki296.com##.basic-banner
+booktoki297.com##.basic-banner
+booktoki298.com##.basic-banner
+booktoki299.com##.basic-banner
 ! Banner Space
 booktoki290.com##div[style*="padding: 15px 15px 0;"]
 booktoki291.com##div[style*="padding: 15px 15px 0;"]
